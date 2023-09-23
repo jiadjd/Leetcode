@@ -1,7 +1,8 @@
 package Practices;
 
-public class XNPowerRecursion {
+public class TimeComplexity {
 
+	// practice time complexity with x^n calculation
 	public static void main(String[] args) {
 		System.out.println(function1(4, 6));
 		System.out.println(function2(4, 6));
